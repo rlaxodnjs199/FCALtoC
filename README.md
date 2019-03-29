@@ -1,4 +1,4 @@
-# FCALtoC
+# FCAL to C++ Translator
 A translator that takes a domain specific language, the FCAL (Forest Cover Analysis Language) code and converts it to proper C++ code.
 The project was developed using the iterative model of development, with a total of 4 iterations. 
 Automated testing (CXXTest - the unit testing framework) was also used to ensure for correctness.
